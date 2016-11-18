@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RSA">
+</Property><Property Name="解决方案文件" Value="C:\Users\jjy\Desktop\RSA-master\RSA-master\build\vc2008\RSA.sln">
+</Property><Property Name="Date" Value="2015年5月16日">
+</Property><Property Name="Time" Value="22:15">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="RSA.sln" Description="文件已成功备份为 C:\Users\jjy\Desktop\RSA-master\RSA-master\build\vc2008\RSA.sln.old">
+</Event><Event ErrorLevel="0" Project="example-1" Source="example-1.vcproj" Description="Converting project file 'C:\Users\jjy\Desktop\RSA-master\RSA-master\build\vc2008\example-1.vcproj'.">
+</Event><Event ErrorLevel="1" Project="example-1" Source="example-1.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="example-1" Source="example-1.vcproj" Description="MSB8012: $(TargetName) ('example-1') does not match the Linker's OutputFile property value 'C:\Users\jjy\Desktop\RSA-master\RSA-master\build\vc2008\/../../bin/Windows/32\example-1D.exe' ('example-1D') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetName) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="1" Project="example-1" Source="example-1.vcproj" Description="MSB8012: $(TargetPath) ('C:\Users\jjy\Desktop\RSA-master\RSA-master\build\vc2008\/../../bin/Windows/32\example-1.exe') does not match the Linker's OutputFile property value 'C:\Users\jjy\Desktop\RSA-master\RSA-master\build\vc2008\/../../bin/Windows/32\example-1D.exe' ('C:\Users\jjy\Desktop\RSA-master\RSA-master\build\vc2008\/../../bin/Windows/32\example-1D.exe') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="example-1" Source="example-1.vcproj" Description="Done converting to new project file 'C:\Users\jjy\Desktop\RSA-master\RSA-master\build\vc2008\example-1.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="example-1" Source="example-1.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RSA" Source="RSA.vcproj" Description="Converting project file 'C:\Users\jjy\Desktop\RSA-master\RSA-master\build\vc2008\RSA.vcproj'.">
+</Event><Event ErrorLevel="1" Project="RSA" Source="RSA.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="RSA" Source="RSA.vcproj" Description="MSB8012: $(TargetName) ('RSA') does not match the Librarian's OutputFile property value 'C:\Users\jjy\Desktop\RSA-master\RSA-master\build\vc2008\/../../lib/Windows/32\RSAD.lib' ('RSAD') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetName) property value matches the value specified in %(Lib.OutputFile).">
+</Event><Event ErrorLevel="1" Project="RSA" Source="RSA.vcproj" Description="MSB8012: $(TargetPath) ('C:\Users\jjy\Desktop\RSA-master\RSA-master\build\vc2008\/../../lib/Windows/32\RSA.lib') does not match the Librarian's OutputFile property value 'C:\Users\jjy\Desktop\RSA-master\RSA-master\build\vc2008\/../../lib/Windows/32\RSAD.lib' ('C:\Users\jjy\Desktop\RSA-master\RSA-master\build\vc2008\/../../lib/Windows/32\RSAD.lib') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Lib.OutputFile).">
+</Event><Event ErrorLevel="0" Project="RSA" Source="RSA.vcproj" Description="Done converting to new project file 'C:\Users\jjy\Desktop\RSA-master\RSA-master\build\vc2008\RSA.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="RSA" Source="RSA.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="RSA.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="RSA.sln" Description="Converted">
+</Event></UpgradeLog>
